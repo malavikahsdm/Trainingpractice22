@@ -8,6 +8,7 @@ int main()
    printf("enter a string :");
    fgets(ch,MAX,stdin);
    len = strlen(ch);
+   printf("%d",len);
    if(ch[len-1]=='\n')
    		ch[len-1] = '\0';
    printf("%s",ch);
