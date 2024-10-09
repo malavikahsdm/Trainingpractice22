@@ -1,0 +1,2 @@
+new messege new messege 1
+hello world from terminal
